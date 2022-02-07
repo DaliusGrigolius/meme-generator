@@ -5,12 +5,11 @@ fetch("http://localhost:3000/memes")
 		renderMemes(memes);
 	})
 	.catch((error) => {
-		console.log(error);
+		console.error("We got an error: ", error);
 	});
 
-const renderMemes = () => {
+const renderMemes = (memes) => {
 	const container = document.querySelector(".container");
-
 	memes.forEach((meme) => {
 		const card = createMemeCard(meme);
 		container.append(card);

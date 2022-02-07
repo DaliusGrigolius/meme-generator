@@ -1,94 +1,10 @@
 {
-  "memes": [
-    {
-      "id": 1,
-      "title": "My favourite meme",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "subtitle": "Funny meme. hahaha!"
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 2
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 3
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 4
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 5
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 6
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 7
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 8
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 9
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 10
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 11
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 12
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 13
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 14
-    },
-    {
-      "title": "test title",
-      "subtitle": "test subtitle",
-      "src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
-      "id": 15
-    }
-  ]
+	"memes": [
+		{
+			"id": 1,
+			"title": "My favourite meme",
+			"src": "https://cdn.vox-cdn.com/thumbor/r26X7f8EuoS5YQHoYs15mQqfYAY=/0x0:1800x1179/1400x1050/filters:focal(676x269:964x557):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66741310/3zlqxf_copy.0.jpg",
+			"subtitle": "Funny meme. hahaha!"
+		}
+	]
 }
