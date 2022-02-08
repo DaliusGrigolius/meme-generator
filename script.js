@@ -10,6 +10,7 @@ fetch("http://localhost:3000/memes")
 
 const renderMemes = (memes) => {
 	const container = document.querySelector(".container");
+
 	memes.forEach((meme) => {
 		const card = createMemeCard(meme);
 		container.append(card);
